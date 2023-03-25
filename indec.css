@@ -1,0 +1,6 @@
+
+.cardcontener{
+    display: inline;
+    /* flex-flow: column ; */
+    grid-template-columns: auto auto auto auto;
+}
